@@ -71,6 +71,17 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -214,6 +225,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MarcTron.Sqlite": "1.2.0",
+          "Xam.Plugin.Connectivity": "3.2.0",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
           "sqlite-net-pcl": "1.5.231"
@@ -296,6 +308,17 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -439,6 +462,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MarcTron.Sqlite": "1.2.0",
+          "Xam.Plugin.Connectivity": "3.2.0",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
           "sqlite-net-pcl": "1.5.231"
@@ -521,6 +545,17 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -664,6 +699,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MarcTron.Sqlite": "1.2.0",
+          "Xam.Plugin.Connectivity": "3.2.0",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
           "sqlite-net-pcl": "1.5.231"
@@ -746,6 +782,17 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.Plugin.Connectivity/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll": {},
+          "lib/Xamarin.iOS10/Plugin.Connectivity.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.1.0": {
         "type": "package",
         "dependencies": {
@@ -889,6 +936,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MarcTron.Sqlite": "1.2.0",
+          "Xam.Plugin.Connectivity": "3.2.0",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
           "sqlite-net-pcl": "1.5.231"
@@ -1074,6 +1122,73 @@
         "system.numerics.vectors.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Xam.Plugin.Connectivity/3.2.0": {
+      "sha512": "ZV45TaBTCJg7XQNEl3fPyyJcuMMhdDEQ6BCLc/5pMuTv38M226ER0WTu5sbmba8jlliDuzeRqkRFHwrGdWAgyg==",
+      "type": "package",
+      "path": "xam.plugin.connectivity/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.Abstractions.xml",
+        "lib/MonoAndroid10/Plugin.Connectivity.dll",
+        "lib/MonoAndroid10/Plugin.Connectivity.pdb",
+        "lib/MonoAndroid10/Plugin.Connectivity.xml",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.dll",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/UAP10/Plugin.Connectivity.Abstractions.xml",
+        "lib/UAP10/Plugin.Connectivity.XML",
+        "lib/UAP10/Plugin.Connectivity.dll",
+        "lib/UAP10/Plugin.Connectivity.pdb",
+        "lib/UAP10/Plugin.Connectivity.pri",
+        "lib/UAP10/Plugin.Connectivity/Properties/Plugin.Connectivity.rd.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.dll",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.pdb",
+        "lib/Xamarin.Mac20/Plugin.Connectivity.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.xml",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.dll",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.pdb",
+        "lib/Xamarin.iOS10/Plugin.Connectivity.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.Abstractions.xml",
+        "lib/XamarinTVOS/Plugin.Connectivity.dll",
+        "lib/XamarinTVOS/Plugin.Connectivity.pdb",
+        "lib/XamarinTVOS/Plugin.Connectivity.xml",
+        "lib/net45/Plugin.Connectivity.Abstractions.dll",
+        "lib/net45/Plugin.Connectivity.Abstractions.pdb",
+        "lib/net45/Plugin.Connectivity.Abstractions.xml",
+        "lib/net45/Plugin.Connectivity.XML",
+        "lib/net45/Plugin.Connectivity.dll",
+        "lib/net45/Plugin.Connectivity.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netcoreapp2.0/Plugin.Connectivity.deps.json",
+        "lib/netcoreapp2.0/Plugin.Connectivity.dll",
+        "lib/netcoreapp2.0/Plugin.Connectivity.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.Abstractions.xml",
+        "lib/netstandard1.0/Plugin.Connectivity.deps.json",
+        "lib/netstandard1.0/Plugin.Connectivity.dll",
+        "lib/netstandard1.0/Plugin.Connectivity.pdb",
+        "lib/netstandard1.0/Plugin.Connectivity.xml",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.dll",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.pdb",
+        "lib/tizen40/Plugin.Connectivity.Abstractions.xml",
+        "lib/tizen40/Plugin.Connectivity.deps.json",
+        "lib/tizen40/Plugin.Connectivity.dll",
+        "xam.plugin.connectivity.3.2.0.nupkg.sha512",
+        "xam.plugin.connectivity.nuspec"
       ]
     },
     "Xamarin.Essentials/1.1.0": {
@@ -1451,7 +1566,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "检测到包降级: Xamarin.Essentials 从 1.3.0 降级到 1.1.0。直接从项目引用包以选择不同版本。 \r\n Week6.iOS -> Week6 -> Xamarin.Essentials (>= 1.3.0) \r\n Week6.iOS -> Xamarin.Essentials (>= 1.1.0)",
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.3.0 to 1.1.0. Reference the package directly from the project to select a different version. \r\n Week6.iOS -> Week6 -> Xamarin.Essentials (>= 1.3.0) \r\n Week6.iOS -> Xamarin.Essentials (>= 1.1.0)",
       "libraryId": "Xamarin.Essentials",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",
@@ -1464,7 +1579,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "检测到包降级: Xamarin.Forms 从 4.2.0.709249 降级到 4.1.0.555618。直接从项目引用包以选择不同版本。 \r\n Week6.iOS -> Week6 -> Xamarin.Forms (>= 4.2.0.709249) \r\n Week6.iOS -> Xamarin.Forms (>= 4.1.0.555618)",
+      "message": "Detected package downgrade: Xamarin.Forms from 4.2.0.709249 to 4.1.0.555618. Reference the package directly from the project to select a different version. \r\n Week6.iOS -> Week6 -> Xamarin.Forms (>= 4.2.0.709249) \r\n Week6.iOS -> Xamarin.Forms (>= 4.1.0.555618)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",

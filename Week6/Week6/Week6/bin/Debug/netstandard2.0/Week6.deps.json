@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "cac2bd40a12317a961b978df8dc5ebe9b11519ff"
+    "signature": "87f340cdbd78b1fc98b6d2513ed3c1df73753548"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "Week6/1.0.0": {
         "dependencies": {
+          "MarcTron.Sqlite": "1.2.0",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
@@ -16,6 +17,17 @@
         },
         "runtime": {
           "Week6.dll": {}
+        }
+      },
+      "MarcTron.Sqlite/1.2.0": {
+        "dependencies": {
+          "sqlite-net-pcl": "1.5.231"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.MtSql.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -105,6 +117,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MarcTron.Sqlite/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j4GvDewLEKlvYjyxZOGKE+jW3kHu30m/iZeyPvxfNzv5qOFLWxcpuecrtoqXWkFdzTLwFN0rdqdil78lVVMCHg==",
+      "path": "marctron.sqlite/1.2.0",
+      "hashPath": "marctron.sqlite.1.2.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

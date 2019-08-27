@@ -1,0 +1,8 @@
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\bin\Debug\netstandard2.0\NetConnectionTest.deps.json
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\bin\Debug\netstandard2.0\NetConnectionTest.dll
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\NetConnectionTest.csprojAssemblyReference.cache
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\NetConnectionTest.csproj.CoreCompileInputs.cache
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\NetConnectionTest.AssemblyInfoInputs.cache
+E:\Code\SIT313\SIT313-Practical\NetConnectionTest\NetConnectionTest\NetConnectionTest\obj\Debug\netstandard2.0\NetConnectionTest.AssemblyInfo.cs
