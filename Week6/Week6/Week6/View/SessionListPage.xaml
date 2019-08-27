@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Week6.View.SessionListPage"
+             xmlns:local ="clr-namespace:CFSessionDB.ViewModel"
+             Title="Week 6 Database">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.BindingContext>
+                <local:SessionListViewModel />
+            </StackLayout.BindingContext>
+            <ListView x:Name="ListView" BackgroundColor="YellowGreen" ItemsSource="{Binding SessionsList}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding SesstionTitle}" TextColor="Black" Detail="{Binding SessionDescription}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

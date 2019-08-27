@@ -1,8 +1,8 @@
 ﻿using System;
+using Week6.View;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
-namespace Week6
+namespace CFSessionDB
 {
     public partial class App : Application
     {
@@ -10,7 +10,13 @@ namespace Week6
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new SessionListPage());
+
+        }
+
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
         }
 
         protected override void OnStart()
