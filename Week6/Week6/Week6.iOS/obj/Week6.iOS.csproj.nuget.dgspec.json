@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj": {}
+    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj": {}
   },
   "projects": {
-    "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj": {
+    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj",
+        "projectUniqueName": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj",
         "projectName": "Week6.iOS",
-        "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj",
-        "packagesPath": "C:\\Users\\Jake-y\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\obj\\",
+        "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\Week6.iOS.csproj",
+        "packagesPath": "C:\\Users\\pass\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jake-y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pass\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj": {
-                "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj"
+              "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj": {
+                "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj"
               }
             }
           }
@@ -65,21 +65,21 @@
         }
       }
     },
-    "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj": {
+    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj",
+        "projectUniqueName": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj",
         "projectName": "Week6",
-        "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj",
-        "packagesPath": "C:\\Users\\Jake-y\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\obj\\",
+        "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\Week6.csproj",
+        "packagesPath": "C:\\Users\\pass\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week6\\Week6\\Week6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jake-y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pass\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -113,10 +113,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Xam.Plugin.Connectivity": {
-              "target": "Package",
-              "version": "[3.2.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
