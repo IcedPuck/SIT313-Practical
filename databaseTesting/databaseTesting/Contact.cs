@@ -23,7 +23,7 @@ namespace databaseTesting
         }
         public Contact()
         {
-
+            //
         }
 
         public override string ToString()
