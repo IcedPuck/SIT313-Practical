@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj": {}
+    "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj": {}
   },
   "projects": {
-    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj": {
+    "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj",
+        "projectUniqueName": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj",
         "projectName": "calculator.Android",
-        "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj",
-        "packagesPath": "C:\\Users\\pass\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\obj\\",
+        "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\calculator.Android.csproj",
+        "packagesPath": "C:\\Users\\Jake-y\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\pass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jake-y\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj": {
-                "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj"
+              "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj": {
+                "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj"
               }
             }
           }
@@ -82,21 +82,21 @@
         }
       }
     },
-    "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj": {
+    "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj",
+        "projectUniqueName": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj",
-        "packagesPath": "C:\\Users\\pass\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\University\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\obj\\",
+        "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\calculator.csproj",
+        "packagesPath": "C:\\Users\\Jake-y\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\calculator\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\pass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jake-y\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

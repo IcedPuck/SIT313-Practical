@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\UITest\\UITest.csproj": {}
+  },
+  "projects": {
+    "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\UITest\\UITest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\UITest\\UITest.csproj",
+        "projectName": "UITest",
+        "projectPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\UITest\\UITest.csproj",
+        "packagesPath": "C:\\Users\\Jake-y\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\SIT313\\SIT313-Practical\\Week9\\calculator\\UITest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jake-y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "NUnitTestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
