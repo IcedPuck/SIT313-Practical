@@ -13,6 +13,7 @@ namespace databaseTesting
     {
         //path
         string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "dbTest.db3");
+        
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -20,10 +21,10 @@ namespace databaseTesting
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
 
+
             Button button = FindViewById<Button>(Resource.Id.button1);
             button.Click += delegate
             {
-
                 // setup the db connection
                 var db = new SQLiteConnection(dbPath);
                 //setup a table
@@ -36,7 +37,7 @@ namespace databaseTesting
             Button getButton = FindViewById<Button>(Resource.Id.get);
             getButton.Click += delegate
             {
-                TextView displayText = FindViewById<Button>(Resource.Id.display);
+                TextView displayText = FindViewById<TextView>(Resource.Id.display);
                 //setup the db connection
                 var db = new SQLiteConnection(dbPath);
                 //Connnect to the table that contains the data we want
